@@ -3,3 +3,7 @@ seaborn
 pandas
 matplotlib
 numpy
+os
+os.path
+EnCen_Functions
+altair

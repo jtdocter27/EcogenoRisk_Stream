@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import os
-import shutil
 import os.path
 import numpy as np 
 import pandas as pd 
@@ -14,9 +13,6 @@ import matplotlib.pyplot as plt
 from EnCen_Functions import diff_score, EC_extract, tsv_to_fasta, diamond_impl, genome_extractor_syn,  EC_corrector
 import altair as alt
 from streamlit.runtime.scriptrunner import add_script_run_ctx,get_script_run_ctx
-from subprocess import Popen
-import warnings
-warnings.filterwarnings("ignore")
 from matplotlib.colors import Normalize
 #_______________________________________________________________________________________
 col1, col2, col3 = st.columns([1, 2, 1])
