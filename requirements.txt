@@ -6,3 +6,4 @@ numpy
 altair
 fake_useragent
 Bio
+sklearn
