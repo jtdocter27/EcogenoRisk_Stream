@@ -17,8 +17,6 @@ import numpy as np
 from sklearn.metrics import pairwise_distances
 import pandas as pd 
 import numpy as np 
-import tkinter as tk
-from tkinter import filedialog
 import streamlit as st 
 import ast
 
