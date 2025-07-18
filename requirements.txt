@@ -6,4 +6,5 @@ numpy
 altair
 fake_useragent
 Bio
-sklearn
+scikit-learn
+biopython
